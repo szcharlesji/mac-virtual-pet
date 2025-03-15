@@ -2,7 +2,7 @@
 
 This is a very simple virtual pet application for macOS.
 
-![Demo Video](assets/mov/pet.mov)
+![Demo Video](assets/pet.mov)
 
 ## Requirements
 
